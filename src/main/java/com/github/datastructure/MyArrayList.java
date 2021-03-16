@@ -72,7 +72,7 @@ public class MyArrayList<T> {
 
     /**
      * 获取指定下标对应的元素
-     * 时间复杂度 O(n)
+     * 时间复杂度 O(1)
      *
      * @param index 下标值
      */
